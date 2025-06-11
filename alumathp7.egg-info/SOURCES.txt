@@ -1,0 +1,9 @@
+README.md
+setup.py
+alumathp7/__init__.py
+alumathp7/matrix.py
+alumathp7.egg-info/PKG-INFO
+alumathp7.egg-info/SOURCES.txt
+alumathp7.egg-info/dependency_links.txt
+alumathp7.egg-info/requires.txt
+alumathp7.egg-info/top_level.txt
